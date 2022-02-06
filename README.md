@@ -11,3 +11,9 @@ The skills gained during this project:
 
 The tools used in this project:
 MySQL, Excel, PowerBI
+
+What was learnt from the data:
+
+What the results were:
+
+Reccommedations:
