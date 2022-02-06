@@ -9,5 +9,5 @@ The skills gained during this project:
   - PowerBI: Dashboard creation
   - Excel: Vlookups, Countifs
 
-the tools used in this project:
+The tools used in this project:
 MySQL, Excel, PowerBI
